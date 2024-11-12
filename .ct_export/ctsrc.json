@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Default Module",
+    "language": 0,
+    "linkFlag": "",
+    "compileFlag": "",
+    "toolchainName": "${TOOLCHAIN_NAME}",
+    "sourceTopDir": "D:\\git_repo\\CT-APR-Demo-SQLite-mini\\src\\",
+    "src": [
+      {
+        "path": "D:\\git_repo\\CT-APR-Demo-SQLite-mini\\src\\slice1.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\CT-APR-Demo-SQLite-mini\\src\\test.c",
+        "compileFlag": ""
+      }
+    ]
+  }
+]

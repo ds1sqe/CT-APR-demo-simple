@@ -1,0 +1,15 @@
+<com.codescroll.ut.importexport.testInfo.ExportSetInformation>
+  <integrationTestFiles/>
+  <unitTestFiles>
+    <file>UnitTests\testme_test0.utest</file>
+    <file>UnitTests\testme2_test0.utest</file>
+    <file>UnitTests\testme3_test0.utest</file>
+  </unitTestFiles>
+  <stubFiles/>
+  <testDataFiles>
+    <file>\UnitTests\testme_test0.csv</file>
+    <file>\UnitTests\testme2_test0.csv</file>
+    <file>\UnitTests\testme3_test0.csv</file>
+  </testDataFiles>
+  <stubState/>
+</com.codescroll.ut.importexport.testInfo.ExportSetInformation>
